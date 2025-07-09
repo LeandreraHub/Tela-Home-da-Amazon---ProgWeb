@@ -1,2 +1,2 @@
 # Nova-Tela---ProgWeb
-Criação deuma tela home da Amazon utilizando HTML e CSS
+Criação de uma tela home da Amazon utilizando HTML e CSS
