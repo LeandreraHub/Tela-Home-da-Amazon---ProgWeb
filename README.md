@@ -1,2 +1,2 @@
 # Nova-Tela---ProgWeb
-Criação de uma tela utilizando HTML e CSS baseado em uma imagem
+Criação deuma tela home da Amazon utilizando HTML e CSS
